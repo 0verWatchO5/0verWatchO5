@@ -9,7 +9,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 - 🏆 **Interests:** Playing Football, and swimming when I’m away from the keyboard.
 - 🌐 **Links:**  
   - [LinkedIn](https://linkedin.com/mayuresh-chaubal)  
-  - [Website](https://mayureshchaubal.netlify.com)
+  - [Website](https://mayureshchaubal.netlify.app)
 
 > *Whether it’s dissecting packets or diving into a pool, I thrive on curiosity, focus, and pushing boundaries.*
 
@@ -27,4 +27,4 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 <!-- Badges End -->
 
 # Contact
-If you want to connect or collaborate, reach out via [LinkedIn](https://linkedin.com/mayuresh-chaubal) or my [website](https://mayureshchaubal.netlify.com).
+If you want to connect or collaborate, reach out via [LinkedIn](https://linkedin.com/mayuresh-chaubal) or my [website](https://mayureshchaubal.netlify.app).
