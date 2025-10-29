@@ -6,7 +6,7 @@ I specialize in **Web Exploitation**, **Reverse Engineering**, **Forensics**, an
 My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity—feel free to explore!
 
 - 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
-- 🏆 **Interests:** Playing CTFs, and swimming when I’m away from the keyboard.
+- 🏆 **Interests:** Playing Football, and swimming when I’m away from the keyboard.
 - 🌐 **Links:**  
   - [LinkedIn](https://linkedin.com/mayuresh-chaubal)  
   - [Website](https://mayureshchaubal.netlify.com)
