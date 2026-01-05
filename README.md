@@ -23,13 +23,20 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0verWatchO5&show_icons=true&theme=gruvbox&rank_icon=github" alt="GitHub stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&theme=gruvbox" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=0verWatchO5&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Top languages">
   <img src="https://streak-stats.demolab.com?user=0verWatchO5&theme=gruvbox&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=6" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" height="90">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" height="90">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" height="90">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" height="90">
 </p>
 <!-- Badges End -->
 
