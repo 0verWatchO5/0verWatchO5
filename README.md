@@ -27,10 +27,12 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Top Language">
-  <img src="https://img.shields.io/github/languages/count/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Language Count">
-  <img src="https://img.shields.io/github/repo-size/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Repo Size">
-  <img src="https://img.shields.io/github/last-commit/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
 <p align="center">
