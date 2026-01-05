@@ -2,8 +2,8 @@
 
 ## Cybersecurity Professional | Information Security Officer
 
-I specialize in **Web Exploitation**, **Governance, Risk Management, and Compliance**, , **Reverse Engineering**, **Forensics**, and **Network Traffic Analysis**.  
-My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity—feel free to explore!
+I specialize in **Web Exploitation**, **Governance, Risk Management, and Compliance**, **Reverse Engineering**, **Forensics**, and **Network Traffic Analysis**.  
+My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity, feel free to explore!
 
 - 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
 - 🏆 **Interests:** Playing Football, and swimming when I’m away from the keyboard.
