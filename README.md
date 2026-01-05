@@ -27,7 +27,10 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d79921&text_color=ebdbb2" alt="Top languages">
+  <img src="https://img.shields.io/github/languages/top/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Language Count">
+  <img src="https://img.shields.io/github/repo-size/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/0verWatchO5/0verWatchO5?style=for-the-badge&color=d79921&labelColor=282828" alt="Last Commit">
 </p>
 
 <p align="center">
