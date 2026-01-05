@@ -23,22 +23,20 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0verWatchO5&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0verWatchO5&theme=gruvbox&hide_border=true" alt="GitHub streak" width="48%">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0verWatchO5&theme=gruvbox" alt="GitHub profile summary">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d79921&text_color=ebdbb2" alt="Top languages">
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
 </p>
 
+<p align="center">
+Achievements
+</p>
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" height="90">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" height="90">
