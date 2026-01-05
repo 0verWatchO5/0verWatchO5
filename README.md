@@ -27,12 +27,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://github-readme-stats-three-rho-27.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d79921&text_color=ebdbb2" alt="Top languages">
 </p>
 
 <p align="center">
