@@ -17,30 +17,19 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 
 <!-- Badges Start -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/0verWatchO5?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/0verWatchO5?style=social" alt="GitHub stars">
-  <img src="https://komarev.com/ghpvc/?username=0verWatchO5&label=Profile%20views&color=blue&style=plastic" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/0verWatchO5?style=for-the-badge&logo=github&labelColor=282828&color=d79921" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/0verWatchO5?style=for-the-badge&logo=github&labelColor=282828&color=d79921" alt="GitHub stars">
+  <img src="https://komarev.com/ghpvc/?username=0verWatchO5&label=Profile%20views&color=d79921&style=for-the-badge" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0verWatchO5&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true" alt="GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0verWatchO5&theme=gruvbox&hide_border=true" alt="GitHub streak" width="48%">
+  <img src="https://img.shields.io/badge/Cybersecurity-Expert-d79921?style=for-the-badge&logo=security&logoColor=white&labelColor=282828" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Web_Exploitation-Pro-d79921?style=for-the-badge&logo=hack-the-box&logoColor=white&labelColor=282828" alt="Web Exploitation">
+  <img src="https://img.shields.io/badge/Forensics-Specialist-d79921?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=282828" alt="Forensics">
+  <img src="https://img.shields.io/badge/GRC-Professional-d79921?style=for-the-badge&logo=shield&logoColor=white&labelColor=282828" alt="GRC">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0verWatchO5&theme=gruvbox" alt="GitHub profile summary">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
-</p>
-
-<p align="center">
-  <h4>Achievements</h4>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" height="90">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" height="90">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" height="90">
