@@ -27,4 +27,4 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 <!-- Badges End -->
 
 # Contact
-If you want to connect or collaborate, reach out via [Email](mailto:mayureshchaubal57@gmail.com), [LinkedIn](https://linkedin.com/mayuresh-chaubal) or my [website](https://mayureshchaubal.netlify.app).
+If you want to connect or collaborate, reach out via [Email](https://mail.google.com/mail/?view=cm&to=mayureshchaubal57@gmail.com), [LinkedIn](https://linkedin.com/mayuresh-chaubal) or my [website](https://mayureshchaubal.netlify.app).
