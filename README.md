@@ -30,13 +30,16 @@ My repositories showcase real-world solutions, research, and hands-on challenges
   <img src="https://github-readme-stats-three-rho-27.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d79921&text_color=ebdbb2" alt="Top languages">
 </p>
 
+<h3 align="center">
+TROPHIES
+</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
 </p>
 
-<p align="center">
-Achievements
-</p>
+<h3 align="center">
+ACHIEVEMENTS
+</h3>
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" height="90">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" height="90">
