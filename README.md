@@ -1,8 +1,8 @@
 #  Hi, I'm Mayuresh Chaubal
 
-## 💻 Cybersecurity Professional | Penetration Tester
+## Cybersecurity Professional | Information Security Officer
 
-I specialize in **Web Exploitation**, **Reverse Engineering**, **Forensics**, and **Network Traffic Analysis**.  
+I specialize in **Web Exploitation**, **Governance, Risk Management, and Compliance**, , **Reverse Engineering**, **Forensics**, and **Network Traffic Analysis**.  
 My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity—feel free to explore!
 
 - 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
@@ -27,4 +27,4 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 <!-- Badges End -->
 
 # Contact
-If you want to connect or collaborate, reach out via [LinkedIn](https://linkedin.com/mayuresh-chaubal) or my [website](https://mayureshchaubal.netlify.app).
+If you want to connect or collaborate, reach out via [Email](mailto:mayureshchaubal57@gmail.com), [LinkedIn](https://linkedin.com/mayuresh-chaubal) or my [website](https://mayureshchaubal.netlify.app).
