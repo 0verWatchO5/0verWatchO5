@@ -6,7 +6,7 @@ I specialize in **Web Exploitation**, **Governance, Risk Management, and Complia
 My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity, feel free to explore!
 
 - 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
-- 🏆 **Interests:** Playing Football, and swimming when I’m away from the keyboard.
+- 🏆 **Interests:** Catch The Flags, Playing Football, and swimming when I’m away from the keyboard.
 - 🌐 **Links:**  
   - [LinkedIn](https://linkedin.com/mayuresh-chaubal)  
   - [Website](https://mayureshchaubal.netlify.app)
@@ -22,8 +22,15 @@ My repositories showcase real-world solutions, research, and hands-on challenges
   <img src="https://komarev.com/ghpvc/?username=0verWatchO5&label=Profile%20views&color=blue&style=plastic" alt="Profile views">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0verWatchO5&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0verWatchO5&show_icons=true&theme=gruvbox&rank_icon=github" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0verWatchO5&layout=compact&theme=gruvbox" alt="Top languages">
+  <img src="https://streak-stats.demolab.com?user=0verWatchO5&theme=gruvbox&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=6" alt="GitHub trophies">
+</p>
 <!-- Badges End -->
 
 # Contact
