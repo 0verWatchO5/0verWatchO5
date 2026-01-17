@@ -8,7 +8,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 - 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
 - 🏆 **Interests:** Catch The Flags, Playing Football, and swimming when I’m away from the keyboard.
 - 🌐 **Links:**  
-  - [LinkedIn](https://linkedin.com/mayuresh-chaubal)  
+  - [LinkedIn](https://linkedin.com/in/mayuresh-chaubal)  
   - [Website](https://mayureshchaubal.netlify.app)
 
 > *Whether it’s dissecting packets or diving into a pool, I thrive on curiosity, focus, and pushing boundaries.*
@@ -34,7 +34,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 TROPHIES
 </h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
+  <img src="https://github-profile-trophy-git-master-0verwatcho5.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
 </p>
 
 <h3 align="center">
