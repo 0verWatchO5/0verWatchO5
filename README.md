@@ -34,7 +34,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 TROPHIES
 </h3>
 <p align="center">
-  <img src="https://github-readme-stats-three-rho-27.vercel.app/api/trophy?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
+  <img src="https://github-trophies.vercel.app/?username=0verWatchO5&theme=gruvbox&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub trophies">
 </p>
 
 <h3 align="center">
