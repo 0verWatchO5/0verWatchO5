@@ -6,7 +6,7 @@ I specialize in **Web Exploitation**, **Governance, Risk Management, and Complia
 My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity, feel free to explore!
 
 - 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
-- 🏆 **Interests:** Catch The Flags, Playing Football, and swimming when I’m away from the keyboard.
+- 🏆 **Interests:** Catch The Flag challenges.
 - 🌐 **Links:**  
   - [LinkedIn](https://linkedin.com/in/mayuresh-chaubal)  
   - [Website](https://mayureshchaubal.netlify.app)
