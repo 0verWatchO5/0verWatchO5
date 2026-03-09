@@ -1,6 +1,21 @@
-﻿<h1 align="center">Mayuresh Chaubal</h1>
-<h3 align="center">Information Security Officer | GRC & Vulnerability Management</h3>
+﻿#  Hi, I'm Mayuresh Chaubal
 
+## Cybersecurity Professional | Information Security Officer
+
+I specialize in **Web Exploitation**, **Governance, Risk Management, and Compliance**, **Reverse Engineering**, **Forensics**, and **Network Traffic Analysis**.  
+My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity, feel free to explore!
+
+- 📚 **Selected Works:** Check out any of my repos for a sample of my approach.
+- 🏆 **Interests:** Catch The Flag challenges.
+- 🌐 **Links:**  
+  - [LinkedIn](https://linkedin.com/in/mayuresh-chaubal)  
+  - [Website](https://mayureshchaubal.netlify.app)
+
+> *Whether it’s dissecting packets or diving into a pool, I thrive on curiosity, focus, and pushing boundaries.*
+
+---
+
+<!-- Badges Start -->
 <p align="center">
   <a href="https://linkedin.com/in/mayuresh-chaubal"><img src="https://img.shields.io/badge/LinkedIn-mayuresh--chaubal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://mayureshchaubal.netlify.app"><img src="https://img.shields.io/badge/Website-Portfolio-d79921?style=for-the-badge&logo=netlify&logoColor=white" alt="Website"></a>
