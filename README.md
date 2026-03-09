@@ -1,6 +1,6 @@
 ﻿#  Hi, I'm Mayuresh Chaubal
 
-## Cybersecurity Professional | Information Security Officer
+## Information Security Officer | GRC & Vulnerability Management
 
 I specialize in **Web Exploitation**, **Governance, Risk Management, and Compliance**, **Reverse Engineering**, **Forensics**, and **Network Traffic Analysis**.  
 My repositories showcase real-world solutions, research, and hands-on challenges in cybersecurity, feel free to explore!
