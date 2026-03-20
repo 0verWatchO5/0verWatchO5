@@ -9,7 +9,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 - 🏆 **Interests:** Catch The Flag challenges.
 - 🌐 **Links:**  
   - [LinkedIn](https://linkedin.com/in/mayuresh-chaubal)  
-  - [Website](https://mayureshchaubal.netlify.app)
+  - [Website](https://mayureshchaubal.vercel.app)
 
 > *Whether it’s dissecting packets or diving into a pool, I thrive on curiosity, focus, and pushing boundaries.*
 
@@ -18,7 +18,7 @@ My repositories showcase real-world solutions, research, and hands-on challenges
 <!-- Badges Start -->
 <p align="center">
   <a href="https://linkedin.com/in/mayuresh-chaubal"><img src="https://img.shields.io/badge/LinkedIn-mayuresh--chaubal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://mayureshchaubal.netlify.app"><img src="https://img.shields.io/badge/Website-Portfolio-d79921?style=for-the-badge&logo=netlify&logoColor=white" alt="Website"></a>
+  <a href="https://mayureshchaubal.vercel.app"><img src="https://img.shields.io/badge/Website-Portfolio-d79921?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   <a href="mailto:mayureshchaubal57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=0verWatchO5&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views">
 </p>
@@ -99,4 +99,4 @@ Currently working as an **Information Security Officer at Austrange Solutions**,
 ---
 
 ## Let's Connect
-Open to **GRC roles**, **security consulting**, and **InfoSec collaboration**. Reach out via [LinkedIn](https://linkedin.com/in/mayuresh-chaubal), [Email](mailto:mayureshchaubal57@gmail.com), or my [website](https://mayureshchaubal.netlify.app).
+Open to **GRC roles**, **security consulting**, and **InfoSec collaboration**. Reach out via [LinkedIn](https://linkedin.com/in/mayuresh-chaubal), [Email](mailto:mayureshchaubal57@gmail.com), or my [website](https://mayureshchaubal.vercel.app).
